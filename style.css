@@ -1,0 +1,72 @@
+._body{
+    width: 300px;
+    height:350px;
+    border: 1px solid #000;
+    background-color: burlywood;
+    margin: 100px auto;
+}
+.screen{
+    width: 250px;
+    height: 70px;
+    background-color: rgb(0, 0, 0);
+    border: 1px solid rgb(35, 58, 49);
+    margin: 10px auto;
+    color:#fff;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.num1{
+   background-color:slategrey;
+   color: #fff;
+   width: 10%;
+   margin-left: 35px;
+}
+.num2{
+    background-color:slategrey;
+    color: #fff;
+    width: 10%;
+    margin-left: 8px;
+ }
+ .plus{
+    background-color:midnightblue;
+    color: #fff;
+    width:20%;
+    margin-left:50px;
+    margin-top: 5px;
+ }
+ .minus{
+   background-color:rgb(88, 58, 122);
+   color: #fff;
+   width:20%;
+   margin-left:50px;
+   margin-top: 5px;
+}
+.mult{
+   background-color:rgb(241, 187, 10);
+    color: #fff;
+    width: 10%;
+    margin-left: 8px;
+}
+.dvide{
+   background-color:rgb(10, 129, 241);
+   color: #fff;
+   width: 10%;
+   margin-left: 8px;
+}
+ .equal{
+    background-color:rgb(28, 112, 25);
+    color: #fff;
+    width:20%;
+    margin-left: 50px;
+    margin-top: 5px;
+ }
+ 
+ .clear{
+   background-color:rgb(112, 110, 25);
+   color: #fff;
+   width:20%;
+   margin-left: 50px;
+   margin-top: 5px;
+ }
+   
